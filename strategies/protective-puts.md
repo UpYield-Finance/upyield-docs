@@ -1,2 +1,0 @@
-# Protective Puts
-

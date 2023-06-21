@@ -1,2 +1,0 @@
-# Delta-Hedged Liquidity
-

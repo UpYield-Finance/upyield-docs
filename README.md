@@ -1,7 +1,4 @@
-# Introduction
+# What is UpYield Finance
 
-Yearn Finance has pioneered the use of vaults. Yearn vaults are like crypto savings accounts where funds are invested in the DEFI ecosystem in order to generate yield. Unlike in traditional finance, where funds can be opaque, those are deployed on public blockchains, where everything is visible and auditable in real time. Ribbon Finance created the first option vaults protocol.\
-
-
-Yield Finance is a DEFI protocol extending the concept of decentralised vaults with a focus on complex option strategies, structured debt, structured products. The protocol is cross chain and extensible, integrating with the existing DEFI and CEFI ecosystems.
+UpYield Finance is a protocol that automates and packages complex digital asset trading strategies into decentralised vaults. Those strategies are mainly implemented as structured products focused on yield generation. The protocol is implemented with smart contracts and is structured as a DAO with a governance token. The token provides voting rights for protocol changes and DAO funding decisions. The protocol will earn fees distributed to token holders.
 
