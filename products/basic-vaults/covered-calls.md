@@ -4,20 +4,22 @@ This is a strategy combining the purchase of a digital asset (e.g. Bitcoin) and 
 
 
 
-When to Use:&#x20;
+**Benefits**:&#x20;
 
 * best in bearish to mild bull markets
 * In a bearish scenario, the investor loses less than from just holding the asset (he receives the option premium)
 * In a bullish scenario, the investor forgives part of the upside from just holding the asset.
 
-Risks:
+**Risks**:
 
 * If the price of the asset declines too much, the investor will incur potential losses, that may not be covered by the profit from option premiums
 * If the price of the asset goes up and reaches the option strike price, the investor will be forced to sell it, and therefore incur an opportunity cost from not keeping the asset.
+* Operational and Execution Risks
+* Third party protocol risks
 
 
 
-Vault strategy:&#x20;
+**Vault strategy**:&#x20;
 
 Weekly European Call Options are sold every Friday at an auction. The strike price is selected in order to achieve a delta of less than 0.2. This is on order to minimise the likelihood of the options expiring at the money.
 
