@@ -18,9 +18,12 @@
   * [RWA Yield](products/basic-vaults/rwa-yield.md)
   * [Market Neutral Liquid Staking](products/basic-vaults/market-neutral-liquid-staking.md)
 * [Advanced](products/advanced/README.md)
-  * [Vertical Spread](products/advanced/vertical-spread.md)
+  * [Delta-Hedge Liquidity Provision](products/advanced/delta-hedge-liquidity-provision.md)
+  * [Covered Call Spread](products/advanced/covered-call-spread.md)
   * [Iron Condor](products/advanced/iron-condor.md)
+  * [Shark Fin](products/advanced/shark-fin.md)
   * [Diagonal Spread](products/advanced/diagonal-spread.md)
+  * [Collar](products/advanced/collar.md)
   * [Collaterized Debt](products/advanced/collaterized-debt.md)
   * [Uncollaterized Debt](products/advanced/uncollaterized-debt.md)
 
