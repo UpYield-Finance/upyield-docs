@@ -35,6 +35,7 @@
 * [Smart Contract Addresses](the-protocol/smart-contract-addresses.md)
 * [Strike Price Selection for Options](the-protocol/strike-price-selection-for-options.md)
 * [Options Settlement](the-protocol/options-settlement.md)
+* [Cross-Chain Execution](the-protocol/cross-chain-execution.md)
 * [Protocol Fees](the-protocol/protocol-fees.md)
 
 ## UpYield Finance DAO
